@@ -1,0 +1,1 @@
+Playground application trying to use javaslang validation in spring mvc
